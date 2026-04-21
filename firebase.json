@@ -1,9 +1,0 @@
-{
-  "hosting": {
-    "site": "care360-60525",
-    "public": "care360-app/client/out",
-    "cleanUrls": true,
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "predeploy": ["STATIC_EXPORT=true npm --prefix care360-app/client run build"]
-  }
-}

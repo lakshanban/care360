@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7de59aca-9c30-4e11-8484-60c83b3dc47d",
+    "email": "admin@care360.local",
+    "passwordHash": "$2b$10$aUiv3keGJEuawfl6gEQ3yOHBfBYuNn/Pmlv.aQYFdA2INHNkp6N/6",
+    "role": "admin",
+    "name": "System Admin",
+    "createdAt": "2026-04-19T05:02:04.899Z"
+  },
+  {
+    "id": "9ad67195-85f5-4f1b-b6d9-2f50f22aa4bb",
+    "email": "caregiver@care360.local",
+    "passwordHash": "$2b$10$kfs9dnvFdTT8kw6qIf.On.H75UGu355ch8Mgmu9ERGiATb97HATU6",
+    "role": "caregiver",
+    "name": "Demo Caregiver",
+    "createdAt": "2026-04-19T05:02:04.900Z"
+  },
+  {
+    "id": "df4c098a-dfb6-4ca4-843c-cace85be833b",
+    "email": "client@care360.local",
+    "passwordHash": "$2b$10$CgNL0X0y30qNF17TIJnR6eyUjz1Jc1AugvGX.tYZt.s8XIpM4Gm0G",
+    "role": "client",
+    "name": "Demo Client",
+    "createdAt": "2026-04-19T05:02:04.900Z"
+  }
+]
