@@ -1,0 +1,17 @@
+{
+  "name": "care360",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Care360 workspace",
+  "scripts": {
+    "dev:client": "npm --prefix care360-app/client run dev",
+    "build:client": "npm --prefix care360-app/client run build",
+    "start:client": "npm --prefix care360-app/client run start",
+    "lint:client": "npm --prefix care360-app/client run lint",
+    "dev:server": "npm --prefix care360-app/server run dev",
+    "build:server": "npm --prefix care360-app/server run build",
+    "start:server": "npm --prefix care360-app/server run start"
+  },
+  "author": "",
+  "license": "ISC"
+}
